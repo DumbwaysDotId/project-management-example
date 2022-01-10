@@ -45,3 +45,7 @@ Cara membuat Issue dan mengubah status project [Here](https://dumbways-ebook.net
 List Task yang harus ditambahkan pada `Kanban Board` [Here](https://dumbways-ebook.netlify.app/project-management/task-project-management)
 
 ## 8. Deploy to Vercel
+
+Pada tahap ini kita akan melakukan Deploy project yang telah dibangun, agar project website yang kita bangun dapat disebarkan dan diakses secara public.
+
+Cara Deploy ke Vercel [Here](https://dumbways-ebook.netlify.app/project-management/deploy-to-vercel)
